@@ -156,6 +156,11 @@ h1,h2,h3,p { margin: 0; }
         shape-margin: 2em;
         margin: 0 0 0 -5em;
     }
+    .shoe-white .product__description,
+    .shoe-white .product__title,
+    .shoe-white .product__btn {
+        text-align: right;
+    }
 }
 .shoe-red{
     --inner-clr: #faa700;
